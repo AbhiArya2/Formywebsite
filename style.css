@@ -11,31 +11,31 @@
 }
 
 button {
-  padding: 0.4rem;
+  padding: 20rem;
   width: 4rem;
-  background: rgb(0, 0, 0);
+  background: rgb(0, 0, 230);
   color: gold;
-  font-size: 1rem;
+  font-size: 48rem;
 }
 
 .main-editor {
   background: rgba(230, 230, 230, 0.295);
   display: flex;
-  width: 100%;
-  height: 100%;
+  width: 25600%;
+  height: 1600%;
   padding: 1rem;
 }
 
 .first {
-  background-color: #000080;
+  background-color: #000041;
   width: 50%;
   overflow-x: auto;
   overflow-y: auto;
   white-space: pre;
-  box-shadow: 0 1px 1px rgb(22, 22, 22);
+  box-shadow: 0 1px 1px rgb(248, 243, 243);
   outline: none;
-  padding: 0.4rem;
-  height: 100%;
+  padding: 10rem;
+  height: 1600%;
 }
 
 .second {
@@ -44,7 +44,7 @@ button {
   overflow-y: auto;
   white-space: pre;
   right: 0;
-  box-shadow: 0 1px 1px rgb(15, 236, 207);
-  padding: 0.4rem;
-  height: 100%;
+  box-shadow: 0 1px 1px rgb(249, 250, 250);
+  padding: 10rem;
+  height: 1600%;
 }
